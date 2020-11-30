@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="152ca56e-72d5-44bf-9604-b4aa3f064b6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\chlohuang\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iwyOb5FVxiA63SXOWB8V0gyI7B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="comhlk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\hlk\springboot03\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="comhlk.Springboot03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="152ca56e-72d5-44bf-9604-b4aa3f064b6b" name="Default Changelist" comment="" />
+      <created>1602832921055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602832921055</updated>
+      <workItem from="1602832927012" duration="3222000" />
+      <workItem from="1603417559830" duration="465000" />
+      <workItem from="1604885026711" duration="128000" />
+      <workItem from="1606723458500" duration="6112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/hlk/springboot03/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602835431195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602835431195" />
+    <state x="153" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1602834421583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602834421583" />
+    <state x="125" y="230" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602834316039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="125" y="230" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1602834316039" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1603418028480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1603418028480" />
+    <state width="789" height="93" key="GridCell.Tab.0.bottom" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state width="789" height="93" key="GridCell.Tab.0.center" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state width="789" height="93" key="GridCell.Tab.0.left" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state width="789" height="93" key="GridCell.Tab.0.right" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state width="789" height="93" key="GridCell.Tab.1.bottom" timestamp="1606729255032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606729255032" />
+    <state width="789" height="93" key="GridCell.Tab.1.center" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state width="789" height="93" key="GridCell.Tab.1.left" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state width="789" height="93" key="GridCell.Tab.1.right" timestamp="1606729255031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="789" height="93" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606729255031" />
+    <state x="526" y="113" key="IDE.errors.dialog" timestamp="1606728866779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="113" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1606728866779" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603418028480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1603418028480" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603418028480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1603418028480" />
+  </component>
+</project>

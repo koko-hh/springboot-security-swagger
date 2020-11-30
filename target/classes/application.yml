@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: Deloitte12
+    url: jdbc:mysql://10.173.48.93:3306/hlk?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8
+    driver-class-name: com.mysql.cj.jdbc.Driver
